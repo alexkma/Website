@@ -3,7 +3,6 @@ alextest commit
 <head>
 <link rel="stylesheet" type="text/css" href="index.css">
 </head>
-<div align="center">
 <h1>This is my site</h1>
 	<nav>
 		<ul>
@@ -35,5 +34,4 @@ alextest commit
 		</ul>
 	</nav>
 	<p>this is alex ma</p>
-	</div>
 </html>
